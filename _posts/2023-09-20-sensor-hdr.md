@@ -1,8 +1,8 @@
 ---
 title: 图像传感器中的 HDR 技术
 date: 2023-09-20 11:33:00 +0800
-categories: [Optics & Imaging]
-tags: [hdr]
+categories: [Optics & Imaging, SciTech]
+tags: [sensor & camera]
 math: true
 img_path: /assets/img/post_img/2023-09-21-sensor-hdr/
 ---

@@ -1,8 +1,8 @@
 ---
 title: 光学成像与显微领域的学习资料和网站
-date: 2023-09-21 12:33:00 +0800
-categories: [Optics & Imaging]
-tags: [resource]
+date: 2023-09-21 10:33:00 +0800
+categories: [Optics & Imaging, Resource]
+tags: [tutorial]
 ---
 
 - 尼康教程资料 MicroscopyU——the source for microscopy education：
