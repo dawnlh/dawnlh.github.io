@@ -126,12 +126,12 @@ img_path: /assets/img/post_img/2023-09-21-aberration/
 ## Reference
 
 - [Optical aberration - Wikipedia](https://en.wikipedia.org/wiki/Optical_aberration)
-- [Aberrations | Edmund Optics](https://www.edmundoptics.com/knowledge-center/application-notes/imaging/how-aberrations-affect-machine-vision-lenses/)
+- [Aberrations - Edmund Optics](https://www.edmundoptics.com/knowledge-center/application-notes/imaging/how-aberrations-affect-machine-vision-lenses/)
 - [Optical aberrations - Course Wiki](https://measurebiology.org/wiki/Optical_aberrations)
 - [What is Chromatic Aberration?](https://photographylife.com/what-is-chromatic-aberration)
 - [Image quality in machine vision systems - Opto Engineering Basics](https://www.opto-e.com/en/basics/image-quality) （有很多清晰的示意图）
 - [工程光学（八）——像差理论 - 知乎](https://zhuanlan.zhihu.com/p/49867224)
-- [光学像差重要知识点详解|光学经典理论 - 知乎](https://zhuanlan.zhihu.com/p/40149006)
+- [光学像差重要知识点详解 - 光学经典理论 - 知乎](https://zhuanlan.zhihu.com/p/40149006)
 - 《应用光学》 李林
 - [光学原理回顾：光学系統中重要的参数（四.色差·像差形式） - 知乎](https://zhuanlan.zhihu.com/p/361330310)
 - [请问7种几何像差（球差、彗差、像散、场曲、畸变、位置色差、倍率色差）中，哪些影响成像的清晰度？哪些影响几何形状？ - 知乎](https://www.zhihu.com/question/20510057/answer/16067742)

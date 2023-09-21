@@ -1,7 +1,7 @@
 ---
 title: 手机拍照中的防抖技术
 date: 2023-09-21 11:33:00 +0800
-categories: [Optics & Imaging, Basic]
+categories: [Optics & Imaging, SciTech]
 tags: [sensor & camera]
 math: true
 img_path: /assets/img/post_img/2023-09-21-camera-stabilization/
