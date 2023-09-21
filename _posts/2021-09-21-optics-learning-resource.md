@@ -1,0 +1,51 @@
+---
+title: 光学成像与显微领域的学习资料和网站
+date: 2023-09-21 12:33:00 +0800
+categories: [Optics & Imaging]
+tags: [resource]
+---
+
+- 尼康教程资料 MicroscopyU——the source for microscopy education：
+	- [https://www.microscopyu.com/tutorials](https://www.microscopyu.com/tutorials)
+	- 关于显微成像的基础概念和知识，全面细致易懂
+- 蔡司教程资料 Education in Microscopy and Digital Imaging
+	- [http://zeiss-campus.magnet.fsu.edu/](http://zeiss-campus.magnet.fsu.edu/)
+	- [http://zeiss-campus.magnet.fsu.edu/articles/basics/](http://zeiss-campus.magnet.fsu.edu/articles/basics/)
+	- 内容丰富，并且含有一些交互的学习资料可以方便了解一些基本原理
+- 奥林巴斯教程资料
+	- [https://www.olympus-lifescience.com.cn/en/microscope-resource/](https://www.olympus-lifescience.com.cn/en/microscope-resource/)
+- 爱特蒙特光学（Edmund Optics）
+	- https://www.edmundoptics.cn/knowledge-center
+	- https://www.edmundoptics.com/knowledge-center
+	- https://www.edmundoptics.cn/resource-page/application-notes/
+- Thorlabs 教程资料
+	- [https://www.thorlabs.com/navigation.cfm?guide_id=2400](https://www.thorlabs.com/navigation.cfm?guide_id=2400)
+- 徕卡教程资料
+	- [https://www.leica-microsystems.com/science-lab/](https://www.leica-microsystems.com/science-lab/)
+- Images from the Microscope
+	- [https://micro.magnet.fsu.edu/](https://micro.magnet.fsu.edu/)
+	- 各种成像信息的集大成者，这一个网站也索引了很多其它的有用的网站，所以其实有它一个就够了。网站里还有很多教程什么的写得很详细。还设计了很多虚拟显微镜的程序可以在线玩玩。
+- 滨松 HAMAMATSU 资料
+	- [http://share.hamamatsu.com.cn/special.html](http://share.hamamatsu.com.cn/special.html)
+	- 基本的光学概念和原理，各种光学器件设备的资料
+- PhotoMetrics 教程资料
+	- [https://www.photometrics.com/](https://www.photometrics.com/) learn 栏目
+- Keyence 公司 Basics of Microscopes
+	- [https://www.keyence.com/ss/products/microscope/bz-x/study/principle/instrument.jsp](https://www.keyence.com/ss/products/microscope/bz-x/study/principle/instrument.jsp)
+- RP photonics 公司 光学基本资料和名词解释
+	- [https://www.rp-photonics.com/categories.html](https://www.rp-photonics.com/categories.html)
+- microbus
+	- [https://microscope-microscope.org/](https://microscope-microscope.org/)
+- 佳能 拍摄技术经验
+	- [http://www.canon.com.cn](http://www.canon.com.cn/special/canon_portrait/index.html#title4)
+- 技术交流论坛
+	- [https://forum.microlist.org/](https://forum.microlist.org/)
+	- [https://lists.umn.edu/cgi-bin/wa?A0=confocalmicroscopy](https://lists.umn.edu/cgi-bin/wa?A0=confocalmicroscopy)
+	- [Photons to photos](https://www.photonstophotos.net/) 镜头、传感器参数，成像基础知识
+	- [https://www.photonstophotos.net/](https://www.photonstophotos.net/)
+- IBiology 系列教程 (显微原理与应用，生物图像分析）
+	- [https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/](https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/)
+- photographylife
+	- https://photographylife.com/learn-photography
+- Opto Engineering knowledge base
+	- https://www.opto-e.com/en/basics/welcome-to-opto-engineering-basics
