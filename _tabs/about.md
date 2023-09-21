@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Ph.D. student, focus on computational imaging and corresponding low-level and high-level vision tasks like snapshot compressive imaging, high-speed imaging, low-light imaging, deblurring, denoising, etc.
 {: .prompt-tip }
