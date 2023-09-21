@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: Dawnlh # the main title
 
-tagline: inside, insight! # it will display as the sub-title
+tagline: insight, inside. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Dawnlh's Blog.
