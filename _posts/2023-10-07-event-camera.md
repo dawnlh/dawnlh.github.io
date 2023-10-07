@@ -1,5 +1,5 @@
 ---
-title: 图像传感器中的 HDR 技术
+title: 事件相机 event camera 简介
 date: 2023-10-07 11:33:00 +0800
 categories: [Optics & Imaging, SciTech]
 tags: [sensor & camera]
