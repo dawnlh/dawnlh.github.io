@@ -19,7 +19,7 @@ tags: [toolbox]
 - 传感器量子效率（quantum efficiency，QE）
 	- [princetonin struments](https://www.princetoninstruments.com/learn/calculators/signal-to-noise)
 
-## 成像参数
+## 系统参数
 
 - 凸透镜成像计算器： http://www.labbang.com/tool.php
 
