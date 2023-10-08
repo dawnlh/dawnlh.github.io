@@ -49,11 +49,10 @@ tags: [sensor & camera]
 
 ## 相关资料
 
-- **基于事件的计算机视觉资源**：[https://github.com/uzh-rpg/event-based\_vision\_resources](https://link.zhihu.com/?target=https%3A//github.com/uzh-rpg/event-based_vision_resources)（包括产品、算法、论文、数据集与模拟器、相关研究团队等等）
-- 苏黎世大学（uzh）Robotics and Perception Group 实验室
-- 主页 [http://rpg.ifi.uzh.ch/davis\_data.htmlrpg.ifi.uzh.ch](https://link.zhihu.com/?target=http%3A//rpg.ifi.uzh.ch/davis_data.html)，director： [Prof. Dr. Davide Scaramuzza](https://link.zhihu.com/?target=http%3A//rpg.ifi.uzh.ch/people_scaramuzza.html)
-- event vision 主页：[http://rpg.ifi.uzh.ch/research\_dvs.html](https://link.zhihu.com/?target=http%3A//rpg.ifi.uzh.ch/research_dvs.html)
-- 知乎相关问题：[https://www.zhihu.com/question/47111443](https://www.zhihu.com/question/47111443)
-- csdn介绍：[https://blog.csdn.net/orange\_littlegirl/article/details/90405678](https://link.zhihu.com/?target=https%3A//blog.csdn.net/orange_littlegirl/article/details/90405678)
-- DAVIS产品公司网站：[https://www.zhihu.com/question/47111443](https://www.zhihu.com/question/47111443)
-- Event-based Vision Resources：基于事件的计算机视觉资源：[https://github.com/uzh-rpg/event-based\_vision\_resources](https://link.zhihu.com/?target=https%3A//github.com/uzh-rpg/event-based_vision_resources)
+
+- event-based vision resources
+	- https://github.com/uzh-rpg/event-based_vision_resources
+	- 包括产品、算法、论文、数据集与模拟器、相关研究团队等等
+- 苏黎世大学（UZH）Robotics and Perception Group
+	- http://rpg.ifi.uzh.ch/research_dvs.html
+	- director： [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html)
